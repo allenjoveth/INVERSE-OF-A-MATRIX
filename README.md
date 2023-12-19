@@ -15,6 +15,9 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
+#Program to find the rank of a matrix.
+#Developed by:Allen Joveth P
+#RegisterNumber:23009582
 import numpy as np
 a=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 b=np.linalg.inv(a);
